@@ -1,0 +1,4 @@
+1. Trigger the event by clicking on the screen in any valid location.
+2. When the screen is clicked, 4 cauldrons are created near each other in embedded in Trees and 3 witches are created in  spots around the spawned Trees. BadApples will also drop from the Trees at a random rate.
+3. BlobMonsters will seek out any Miner and eat them until no Miners are left. 
+4. The new entity is the Witch, these Witches will seek out BadApples and once full(3 BadApples) will return to the cauldrons to turn them into a potion. The potion will not be a created entity but the Witches will carry the potion on them and use it to turn any OreBlob into a BlobMonster.

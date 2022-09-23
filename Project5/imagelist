@@ -1,0 +1,41 @@
+apple images/apple.bmp
+blacksmith images/blacksmith.bmp
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+blobMonster images/blobMonsterWalk1.bmp 255 255 255 0
+blobMonster images/blobMonsterWalk2.bmp 255 255 255 0
+blobMonster images/blobMonsterWalk3.bmp 255 255 255 0
+blobMonster images/blobMonsterWalk4.bmp 255 255 255 0
+cauldron images/cauldron.bmp
+grass images/grass.bmp
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+obstacle images/obstacle.bmp
+ore images/ore.bmp 201 26 26 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+rocks images/rock.bmp
+tree images/tree.bmp
+vein images/vein.bmp
+witch images/witch1.bmp 255 255 255 0
+witch images/witch2.bmp 255 255 255 0
+witch images/witch3.bmp 255 255 255 0
+witch images/witch4.bmp 255 255 255 0
+background_default images/none.bmp
